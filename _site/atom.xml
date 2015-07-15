@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>泰樾</title>
+ <link href="http://empty-lambda.github.io/" rel="self"/>
+ <link href="http://empty-lambda.github.io"/>
+ <updated>2015-07-15T13:31:32+02:00</updated>
+ <id>http://empty-lambda.github.io</id>
+ <author>
+   <name>taiyue_jeff</name>
+   <email>taiyuelighting@gmail.com</email>
+ </author>
+
+ 
+ 
+</feed>
