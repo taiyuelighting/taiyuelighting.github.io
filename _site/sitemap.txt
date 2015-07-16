@@ -1,10 +1,12 @@
 
-http://empty-lambda.github.io/pages/about.html
-http://empty-lambda.github.io/archive.html
-http://empty-lambda.github.io/atom.xml
-http://empty-lambda.github.io/categories.html
-http://empty-lambda.github.io/index.html
-http://empty-lambda.github.io/pages.html
-http://empty-lambda.github.io/rss.xml
-http://empty-lambda.github.io/sitemap.txt
-http://empty-lambda.github.io/tags.html
+http://taiyuelighting.github.io/about.html
+http://taiyuelighting.github.io/pages/about.html
+http://taiyuelighting.github.io/archive.html
+http://taiyuelighting.github.io/atom.xml
+http://taiyuelighting.github.io/categories.html
+http://taiyuelighting.github.io/contact.html
+http://taiyuelighting.github.io/index.html
+http://taiyuelighting.github.io/pages.html
+http://taiyuelighting.github.io/rss.xml
+http://taiyuelighting.github.io/sitemap.txt
+http://taiyuelighting.github.io/tags.html
