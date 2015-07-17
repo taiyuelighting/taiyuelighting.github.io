@@ -140,7 +140,7 @@ body {
   top: 0;
   left: 0;
   min-height: 500px;
-  width: auto !important;
+  width: 950px;
 }
 }
 @media (min-width: 480px) {
