@@ -6,6 +6,7 @@ http://taiyuelighting.github.io/atom.xml
 http://taiyuelighting.github.io/categories.html
 http://taiyuelighting.github.io/contact.html
 http://taiyuelighting.github.io/index.html
+http://taiyuelighting.github.io/index.html.backup
 http://taiyuelighting.github.io/pages.html
 http://taiyuelighting.github.io/rss.xml
 http://taiyuelighting.github.io/sitemap.txt
