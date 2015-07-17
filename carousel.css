@@ -60,13 +60,6 @@ body {
   height: 500px;
   background-color: #777;
 }
-.carousel-inner > .item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  height: auto !important;
-}
 
 
 /* MARKETING CONTENT
@@ -146,6 +139,16 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  width: 500px;
 
 }
+}
+@media (min-width: 480px) {
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 500px;
+}
+}
+
